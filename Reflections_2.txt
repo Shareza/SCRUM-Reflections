@@ -1,0 +1,2 @@
+TDD jest to rodzaj podejscia w którym najpierw piszemy tesy, a pózniej kod funkcjonalnosci.
+Zasada to: red -> green -> refactor
