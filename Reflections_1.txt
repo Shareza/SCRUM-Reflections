@@ -1,0 +1,1 @@
+Wymagania funkcjonalne odpowiadaja na pytanie "Co?", natomiast wymagania niefunkcjonalne odpowiadaja na wymagania "Jak?".
